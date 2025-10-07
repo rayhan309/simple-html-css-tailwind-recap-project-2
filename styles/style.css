@@ -16,5 +16,8 @@
         margin-right: 0;
         margin-bottom: 20px;
     }
-    
+    .heder-img{
+        width: 100%;
+        height: auto;
+    }
 }
